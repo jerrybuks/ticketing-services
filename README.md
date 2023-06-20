@@ -16,23 +16,23 @@ The Auth Service is responsible for user authentication and authorization within
 
 To run the Ticketing Services locally, please follow the steps below:
 
-1. Clone the repository:
+### 1. Clone the repository:
 
-git clone https://github.com/jerrybuks/ticketing-services.git
+ ``` git clone https://github.com/jerrybuks/ticketing-services.git ``` 
 
-2. Install the dependencies for the Auth Service:
+### 2. Install the dependencies for the Auth Service:
 
-cd auth-service
-npm install
+ ``` cd auth-service ``` 
+ ``` npm install ``` 
 
-3. Set up the required environment variables. Ensure you have the necessary credentials and configuration for database connections, authentication providers, and any other service-specific configurations. Refer to the service's README for more details.
+### 3. Set up the required environment variables. Ensure you have the necessary credentials and configuration for database connections, authentication providers, and any other service-specific configurations. Refer to the service's README for more details.
 
-4. Start the Auth Service:
+### 4. Start the Auth Service:
 
-npm start
+ ``` npm start ``` 
 
 
-5. Repeat the above steps for any other microservices you wish to run.
+### 5. Repeat the above steps for any other microservices you wish to run.
 
 ## Contributing
 
