@@ -22,7 +22,7 @@ To run the Ticketing Services locally, please follow the steps below:
 
 ### 2. Install the dependencies for the Auth Service:
 
- ``` cd auth-service ``` 
+ ``` cd auth ``` 
  ``` npm install ``` 
 
 ### 3. Set up the required environment variables. Ensure you have the necessary credentials and configuration for database connections, authentication providers, and any other service-specific configurations. Refer to the service's README for more details.
